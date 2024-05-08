@@ -1,2 +1,1 @@
-# pattini-UI
-Interface for Pattini GitHub Action
+# Boilerplate NextJS-TS-Tailwind
